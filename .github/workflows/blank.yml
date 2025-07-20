@@ -1,4 +1,4 @@
-name: Step 0, Welcome
+name: Step 0
 
 on:
   push:
